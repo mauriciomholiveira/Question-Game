@@ -4,7 +4,7 @@ body {
   display: flex;
   background: #000;
   background-image: url(https://img.freepik.com/vetores-gratis/fundo-do-espaco-fundo-para-o-setor-de-tecnologia-para-site-de-apresentacao-ou-banner_606226-149.jpg);
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   flex-direction: row;
   justify-content: center;
