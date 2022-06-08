@@ -1,60 +1,14 @@
 body {
-  margin: 0 auto;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+
+#container {
   width: 50%;
-  display: flex;
-  background: #000;
-  background-image: url(https://img.freepik.com/vetores-gratis/fundo-do-espaco-fundo-para-o-setor-de-tecnologia-para-site-de-apresentacao-ou-banner_606226-149.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
+  max-width: 25rem;
+  margin-top: 6.25rem;
+  margin-inline: auto;
 }
- 
-img {
-  position: absolute;
-  left: 41rem;
-  top: 5rem;
-  margin-left: -90px;
-  margin-top: -35px;
-}
-.container {
-  color: hsl(0, 0%, 100%);
-  position: fixed;
-  margin: 0;
-  top: 10rem;
-  left: 20rem;
-  text-align: center;
-}
-
-.question {
-  padding: 0;
-  margin: auto;
-}
-
-#input1 {
-  margin-bottom: 5px;
-  padding: 0;
-  border-radius: 0.3rem;
-  border-color: hsl(0, 0%, 100%);
-}
-#input1::placeholder {
-  color: hsl(0, 0%, 0%);
-  text-align: center;
-}
-
-.botao1 {
-  border-radius: 6px;
-}
-
-.text-pix{
-  margin-top: 3rem;
-  font-size: 18px;
-  background: hsl(0, 0%, 0%);
-}
-.botao2 {
-  font-size: 20px;
-  background-color: hsl(125, 91%, 26%);
-  border-radius: 6px;
-}
-
