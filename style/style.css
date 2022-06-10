@@ -45,11 +45,27 @@ button {
   width: 100%;
   padding: 1.25rem;
   font-size: 1.25rem;
-  border-radius: 0.25rem;
+  border-radius: 0.4375rem;
 }
 
 input {
   margin-bottom: 1.25rem;
+}
+
+input::-webkit-input-placeholder {
+  text-align: center;
+}
+
+input:-ms-input-placeholder {
+  text-align: center;
+}
+
+input::-ms-input-placeholder {
+  text-align: center;
+}
+
+input::placeholder {
+  text-align: center;
 }
 
 button {
