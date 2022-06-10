@@ -8,7 +8,7 @@
 
 /* ----CORPO E ALINHAMENTO---- */
 body {
-  background-color: $secondColor;
+  background-color: $backgroudColor;
   color: $firstColor;
   text-align: center;
   font-family: sans-serif;
@@ -21,7 +21,7 @@ body {
   margin-inline: auto;
 }
 
-img {
+.imagem1 {
   max-inline-size: 9.375rem;
 }
 

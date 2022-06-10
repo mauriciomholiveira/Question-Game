@@ -1,6 +1,7 @@
 $firstColor: hsl(0, 0%, 100%);
 $secondColor: hsl(0, 0%, 0%);
 $thirdColor: hsl(271, 83%, 70%);
+$backgroudColor: hsla(0, 0%, 0%, 0.937);
 
 @mixin reset {
   margin: 0;
