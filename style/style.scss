@@ -3,9 +3,7 @@
 
 /* ----RESET---- */
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+  @include reset;
 }
 
 /* ----CORPO E ALINHAMENTO---- */
@@ -23,6 +21,10 @@ body {
   margin-inline: auto;
 }
 
+img {
+  max-inline-size: 9.375rem;
+}
+
 /* ----TEXTOS---- */
 h1 {
   margin-top: 2.5rem;
@@ -34,7 +36,6 @@ p {
   margin-bottom: 2.5rem;
   opacity: 0.7;
 }
-
 
 /* ----BOTOES---- */
 input,
@@ -52,8 +53,8 @@ input {
 
 button {
   border: none;
-  background-color: hsl(271, 76%, 53%);
-  color: hsl(0, 0%, 100%);
+  background-color: $thirdColor;
+  color: $firstColor;
   transition: filter 0.2s;
 }
 

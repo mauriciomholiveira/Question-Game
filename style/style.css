@@ -22,6 +22,10 @@ body {
   margin-inline: auto;
 }
 
+img {
+  max-inline-size: 9.375rem;
+}
+
 /* ----TEXTOS---- */
 h1 {
   margin-top: 2.5rem;
@@ -50,7 +54,7 @@ input {
 
 button {
   border: none;
-  background-color: #8a2ce2;
+  background-color: #b573f2;
   color: white;
   -webkit-transition: -webkit-filter 0.2s;
   transition: -webkit-filter 0.2s;
