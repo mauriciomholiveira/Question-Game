@@ -1,13 +1,12 @@
 * {
   margin: 0;
   padding: 0;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-  background-color: black;
-  color: white;
+  background-color: hsl(0, 0%, 0%);
+  color: hsl(0, 0%, 100%);
   text-align: center;
   font-family: sans-serif;
 }
@@ -45,17 +44,12 @@ input {
 
 button {
   border: none;
-  background-color: #8a2ce2;
-  color: white;
-  -webkit-transition: -webkit-filter 0.2s;
-  transition: -webkit-filter 0.2s;
+  background-color: hsl(271, 76%, 53%);
+  color: hsl(0, 0%, 100%);
   transition: filter 0.2s;
-  transition: filter 0.2s, -webkit-filter 0.2s;
 }
 
 button:hover {
-  -webkit-filter: brightness(1.2);
-          filter: brightness(1.2);
+  filter: brightness(1.2);
   cursor: pointer;
 }
-/*# sourceMappingURL=style.css.map */
