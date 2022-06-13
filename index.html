@@ -1,26 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Question Game</title>
+  
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question Game</title>
+    <script type="text/javascript" src="./js/script.js" defer=""></script>
   <link rel="icon"
     href="https://cdn-icons.flaticon.com/png/512/3112/premium/3112737.png?token=exp=1654659693~hmac=ef90d67bc7e2cfcc4d0b1ca758a27e0f">
   <link rel="stylesheet" href="style/style.css">
-</head>
+  <head>
+    <title>Maratona Explorer 01 - 202206121142</title>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="./index.js" defer=""></script>
+    <link rel="stylesheet" href="./index.scss">
+  </head>
 
-<body>
-  <div id="container">
-    <img class="imagem1"
-      src="./assets/crystal-ball.svg"
-      alt="imagem de uma bola de cristal">
-    <h1>Vou revelar seu destino!</h1>
-    <p>Clique em fazer pergunta para que seu destino seja revelado.</p>
-    <input type="text" placeholder="Digite Sua Pergunta">
-    <button>Perguntar</button>
-  </div>
-</body>
+  <body>
+    <div id="container">
+      <img class="imagem1" src="./assets/crystal-ball.svg" alt="Imagem de uma bola de cristal">
+      <h1>Vou revelar seu destino!</h1>
+      <p>Clique em fazer pergunta para que seu destino seja revelado.</p>
+      
+      <input id="inputPergunta" type="text" placeholder="Digite sua pergunta" />
+      <button id="buttonPerguntar" onclick="fazerPergunta()">
+        Fazer Pergunta
+      </button>
+
+      <h3 id="resposta"></h3>
+    </div>
+  </body>
 
 </html>

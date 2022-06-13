@@ -83,4 +83,17 @@ button:hover {
           filter: brightness(1.2);
   cursor: pointer;
 }
+
+#resposta {
+  margin: top 1.875rem;
+  -webkit-transition: opacity 1s;
+  transition: opacity 1s;
+}
+
+#resposta div {
+  font: 1rem;
+  font-weight: normal;
+  opacity: 0.9;
+  margin-bottom: 0.625rem;
+}
 /*# sourceMappingURL=style.css.map */
