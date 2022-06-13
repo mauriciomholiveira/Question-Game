@@ -43,7 +43,7 @@ elementoResposta.innerHTML = pergunta + respostas [numeroAleatorio]
 
 // sumir a resposta depois de 3 segundos
  setTimeout(function() {
-   elementoResposta.style.opacity = 0;
+   elementoResposta.style.opacity = 1;
    buttonPerguntar.removeAttribute('disabled')
  }, 3000)
 
