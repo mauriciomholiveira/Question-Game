@@ -25,4 +25,4 @@
 - ***HTML***
 - ***CSS***
 - ***Sass***
-- ***JAVASCRIPT***
+- ***JavaScript***
