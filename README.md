@@ -10,6 +10,10 @@
 <br>
 <br>
 
+## Link the project [🔗Link🔗](https://mauriciomholiveira.github.io/Question-Game/)
+
+<br>
+
 - [about](#-About)
 - [tools](#-Tools)
 - [contribute](#-How-To-Contribute)
@@ -17,10 +21,7 @@
 
 <br>
 <br>
-<br>
 
-## Link the project [🔗Link🔗](https://mauriciomholiveira.github.io/Question-Game/)
-<br>
 
 
 ## 🦸🦸‍♀ About
@@ -60,6 +61,8 @@
 $git clone https://github.com/mauriciomholiveira/Question-Game.git
  ```
 
- ## 📃 License
+ ## 📃 
+ 
+ License
 
  #### This project is under the MIT license. See the file [LICENSE](https://github.com/mauriciomholiveira/Question-Game/blob/main/LICENSE) for mkore details.
