@@ -60,6 +60,6 @@
 $git clone https://github.com/mauriciomholiveira/Question-Game.git
  ```
 
- ## 📃License
+ ## 📃 License
 
  #### This project is under the MIT license. See the file [LICENSE](https://github.com/mauriciomholiveira/Question-Game/blob/main/LICENSE) for mkore details.
