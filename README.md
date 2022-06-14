@@ -1,10 +1,12 @@
 
-<img src="./assets/site.png" alt="">
+
+![0b1fdfc2-3710-427f-96ba-9fe65615cbee (1)](https://user-images.githubusercontent.com/99220549/173472755-80369b30-9547-40bf-9e7c-d1c646243357.gif)
+
 
 
 <br>
 
-# Projeto Game Quest
+<h1>Projeto Game Quest</h1>
 
 *O intuito desse projeto é mostrar uma aplicação simples onde o usuário ira fazer uma pergunta sobre o seu destino e ao clicar no botão **Fazer Pergunta**, ele ira retornar uma resposta.*
 
