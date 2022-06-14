@@ -6,9 +6,11 @@
 
 <br>
 
-<h1>Projeto Game Quest</h1>
+<h1>🟢Projeto Game Quest🟢</h1>
 
-*O intuito desse projeto é mostrar uma aplicação simples onde o usuário ira fazer uma pergunta sobre o seu destino e ao clicar no botão **Fazer Pergunta**, ele ira retornar uma resposta.*
+<h2>🔗<a href="https://mauriciomholiveira.github.io/Question-Game/">Link do projeto</a>🔗</h2>
+
+*❇️O intuito desse projeto é mostrar uma aplicação simples onde o usuário ira fazer uma pergunta sobre o seu destino e ao clicar no botão **Fazer Pergunta**, ele ira retornar uma resposta.*
 
 *Essa magica só acontece por causa do **JavaScript** pois ele quem faz todo o trabalho de mostrar uma resposta aleatória ao usuário.*
 
@@ -16,13 +18,13 @@
 
 *Tambem foi adicionado uma opacidade para a transição, deixando mais suave a resposta do Game Quest.*
 
-### *Esse projeto pode ser adaptado para varias outras coisas, como:*
+### ✅*Esse projeto pode ser adaptado para varias outras coisas, como:*
 
 - ***Mostrar um numero aleatorio de um ou mais dados,***
 - ***Sortear um numero aleatorio, usado muito para sorteios de redes sociais.***
 - ***e muitas outras coisas.***
 
-### Tecnologias usadas:
+### 💎Tecnologias usadas:
 
 - ***HTML***
 - ***CSS***
