@@ -10,7 +10,7 @@
 <br>
 <br>
 
-## Link the project [🔗Link🔗](https://mauriciomholiveira.github.io/Question-Game/)
+## Link the project [🔗Link🔗](https://question-game-three.vercel.app/)
 
 <br>
 
